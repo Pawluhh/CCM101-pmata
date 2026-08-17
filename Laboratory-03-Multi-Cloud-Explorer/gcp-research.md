@@ -19,3 +19,5 @@ GCP uses pricing based on the cloud resources and services consumed.
 
 ### Target Users
 GCP can be used by developers, organizations, businesses, and enterprises.
+Google Cloud. (n.d.). *Google Cloud Documentation*.  
+  https://cloud.google.com/docs
