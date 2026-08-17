@@ -29,3 +29,13 @@ Google Cloud Platform is recommended because the company develops Artificial Int
 ### Recommended Platform: AWS
 
 AWS is recommended because the company serves customers worldwide and requires highly available infrastructure with automatic scaling. AWS offers global cloud regions and services that support high availability and performance. Its scaling features help applications handle large traffic spikes while maintaining reliability. The client could use Amazon EC2, Elastic Load Balancing (ELB), and Amazon EC2 Auto Scaling.
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers flexible and scalable services that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS provides a broad range of services and scalable infrastructure suitable for large organizations. |
+| Microsoft Environment | Microsoft Azure | Azure is well integrated with Microsoft technologies, making it suitable for organizations already using Microsoft products. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | GCP provides strong cloud services and tools for artificial intelligence and machine learning workloads. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service for deploying containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure and scalable services that can support applications serving users around the world. |
