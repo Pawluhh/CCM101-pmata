@@ -19,3 +19,5 @@ Azure provides different pricing options depending on the services and resources
 
 ### Target Users
 Azure can be used by developers, organizations, businesses, and enterprises.
+ Microsoft Azure. (n.d.). *Azure Documentation*.  
+  https://learn.microsoft.com/azure/
