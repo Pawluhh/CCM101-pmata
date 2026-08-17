@@ -21,3 +21,5 @@ AWS commonly uses a pay-as-you-go pricing approach.
 
 ### Target Users
 AWS can be used by individuals, developers, organizations, and enterprises.
+Amazon Web Services (AWS). (n.d.). *AWS Documentation*.  
+  https://docs.aws.amazon.com/
